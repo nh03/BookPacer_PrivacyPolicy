@@ -1,15 +1,19 @@
 BookPacer PrivacyPolicy
 --------------------------------------------------------------------------------------------------------------------------------
 <About advertising>
+  
 In this application, AdMob (Google Inc.) is used as an advertisement distribution tool, and AdMob may automatically acquire user information. For information on the information to be acquired, the purpose of use, and the provision to third parties, please check the link of the application privacy policy of the advertising distribution company below.
 
 Google Ads Policy
+
 https://policies.google.com/technologies/ads?hl=en
 
 <About usage analysis>
+  
 This application uses Firebase (Google Inc.) as a tool to collect usage data of the application for reference in future development, and Firebase may automatically acquire user information. Please confirm the information to be acquired, the purpose of use, the provision to third parties, etc. from the following Google Privacy Policy link.
 
 Google PrivacyPolicy
+
 https://policies.google.com/privacy?hl=en
 
 --------------------------------------------------------------------------------------------------------------------------------
